@@ -1,2 +1,2 @@
 # dashboard
-dashboard for usn.lgithup.co.kr/olorasys/cultasset
+dashboard for usn.lighthup.co.kr/olorasys/cultasset
